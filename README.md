@@ -1,23 +1,21 @@
-# Textify
-This program takes a String as input, and produces a text immage of the String.
+# Description
+- This program takes a **String** as input, and produces a **text image** of the String.
+- The program produces a **.txt** file and a **.bat** file.
+- The **.bat** file can be run to produce the text image on *command prompt*.
 
-## Example (1010)
-### .txt file
-![2_txt](https://user-images.githubusercontent.com/97707320/174205942-1ebc4d74-d413-4b2b-a484-e2c8452aaccd.png)
+# Examples
+## .bat outputs
+![2_out](https://user-images.githubusercontent.com/97707320/174207269-33b04401-a522-4fe9-bb33-5811c0e318e5.png)
 
-### .bat file
-![2_bat](https://user-images.githubusercontent.com/97707320/174206096-d04b41a8-6b73-464c-92c6-b83b9815ca2e.png)
+![1_out](https://user-images.githubusercontent.com/97707320/174207555-4cb23156-8d49-4e8c-9b6c-eb18d68211bc.png)
 
-### .bat output
-![2_out](https://user-images.githubusercontent.com/97707320/174206175-7b1adda8-28c0-48bc-ba35-3616e7fc9588.png)
+## .bat codes
+![2_bat](https://user-images.githubusercontent.com/97707320/174207326-92f0be20-b57a-43f1-ac25-4f895b68771f.png)
 
-
-## Example (#LOVE)
-### .txt file
-![1_txt](https://user-images.githubusercontent.com/97707320/174206310-6edb7107-6f73-48fd-8267-c119798c31f9.png)
-
-### .bat file
 ![1_bat](https://user-images.githubusercontent.com/97707320/174206341-defffa35-c629-4ff5-82b2-c5d10c2dfff1.png)
 
-### .bat output
-![1_out](https://user-images.githubusercontent.com/97707320/174206364-a8ebaab8-1e70-4b5a-9a10-4f68982f0a78.png)
+
+## .txt files
+![2_txt](https://user-images.githubusercontent.com/97707320/174205942-1ebc4d74-d413-4b2b-a484-e2c8452aaccd.png)
+
+![1_txt](https://user-images.githubusercontent.com/97707320/174206310-6edb7107-6f73-48fd-8267-c119798c31f9.png)
