@@ -45,6 +45,7 @@ import Scripts.NumberClasses.Number9;
 import Scripts.SymbolClasses.SymbolExclamation;
 import Scripts.SymbolClasses.SymbolQuestion;
 import Scripts.SymbolClasses.SymbolHash;
+import Scripts.SymbolClasses.SymbolAdd;
 
 
 public class Characters {
@@ -99,8 +100,9 @@ public class Characters {
                 case '!': line += exclamation.line(lineNumber); break;
                 case '?': line += question.line(lineNumber); break;
                 case '#': line += hash.line(lineNumber); break;
+                case '+': line += add.line(lineNumber); break;
 
-                // Unavailable Symbols
+                // Unavailable Characters
                 default : line += question.line(lineNumber);
             }
         }
@@ -152,4 +154,5 @@ public class Characters {
     static SymbolExclamation exclamation = new SymbolExclamation();
     static SymbolQuestion question = new SymbolQuestion();
     static SymbolHash hash = new SymbolHash();
+    static SymbolAdd add = new SymbolAdd();
 }
